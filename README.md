@@ -1,0 +1,2 @@
+# OLLVM_Deobfuscation
+OLLVM_Deobfuscation 是一款ollvm反混淆工具，目前已经能完美实现x86架构Linux平台下被ollvm混淆过的C/C++代码的反混淆，后续将逐步尝试Android SO文件的反混淆
